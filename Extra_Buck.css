@@ -1,0 +1,32 @@
+html {
+	min-height: 100% ; 
+}
+body {
+	background: -webkit-linear-gradient(white, grey);
+}
+
+.Title {
+
+	background-color: grey;
+	text-align: center ; 
+	font-size: 30px ; 
+	text-decoration-style: dotted; 
+	border-style: dotted;
+	border-color: yellow;
+}
+
+#Extra {
+	color: white;
+	font-weight: bold ; 
+}
+
+#Buck {
+	color: yellow ;
+}
+
+#gameCanvas {
+	background-color: grey;
+	text-decoration-style: dotted; 
+	border-style: dotted;
+	border-color: yellow;
+}
